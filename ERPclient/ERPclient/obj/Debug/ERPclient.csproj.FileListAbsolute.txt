@@ -1,0 +1,9 @@
+F:\seen\abuse to\ERPclient\ERPclient\bin\Debug\ERPclient.exe.config
+F:\seen\abuse to\ERPclient\ERPclient\bin\Debug\ERPclient.exe
+F:\seen\abuse to\ERPclient\ERPclient\bin\Debug\ERPclient.pdb
+F:\seen\abuse to\ERPclient\ERPclient\obj\Debug\ResolveAssemblyReference.cache
+F:\seen\abuse to\ERPclient\ERPclient\obj\Debug\ERPclient.Form1.resources
+F:\seen\abuse to\ERPclient\ERPclient\obj\Debug\ERPclient.Properties.Resources.resources
+F:\seen\abuse to\ERPclient\ERPclient\obj\Debug\ERPclient.csproj.GenerateResource.Cache
+F:\seen\abuse to\ERPclient\ERPclient\obj\Debug\ERPclient.exe
+F:\seen\abuse to\ERPclient\ERPclient\obj\Debug\ERPclient.pdb

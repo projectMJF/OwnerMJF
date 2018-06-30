@@ -1,0 +1,15 @@
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\bin\Debug\inventorysys.asp.exe.config
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\bin\Debug\inventorysys.asp.exe
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\bin\Debug\inventorysys.asp.pdb
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\bin\Debug\inventorysys.asp.xml
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\ResolveAssemblyReference.cache
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.Form1.resources
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.Resources.resources
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.vbproj.GenerateResource.Cache
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.exe
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.xml
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.pdb
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\bin\Debug\inventorysys.asp.exe.manifest
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\bin\Debug\inventorysys.asp.application
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.exe.manifest
+F:\seen\abuse to\inventorysys.asp\inventorysys.asp\obj\Debug\inventorysys.asp.application
